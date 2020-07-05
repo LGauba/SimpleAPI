@@ -15,12 +15,6 @@ namespace SimpleAPI.Test
             Assert.Equal("Les Jackson", returnValue.Value);
         }
 
-
-
-        [Fact]
-        public void Test1()
-        {
-
-        }
+     
     }
 }
